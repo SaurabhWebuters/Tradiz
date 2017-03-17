@@ -1,0 +1,84 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/card_popup"
+    android:paddingBottom="5dip"
+    android:paddingTop="5dip">
+
+    <RadioGroup
+        android:id="@+id/radio_group_availability"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+       >
+
+        <RadioButton
+            android:id="@+id/radio_button_free"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true" />
+
+
+        <TextView
+            android:id="@+id/free"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/radio_button_free"
+            android:layout_centerHorizontal="true"
+            android:text="Free"
+            android:textSize="10sp" />
+
+        <RadioButton
+            android:id="@+id/radio_button_tomorrow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/free"
+            android:layout_centerHorizontal="true" />
+
+
+        <TextView
+            android:id="@+id/tomorrow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/radio_button_tomorrow"
+            android:layout_centerHorizontal="true"
+            android:text="Tomorrow"
+            android:textSize="10sp" />
+
+
+        <RadioButton
+            android:id="@+id/radio_button_nextweek"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tomorrow"
+            android:layout_centerHorizontal="true" />
+
+
+        <TextView
+            android:id="@+id/nextweek"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/radio_button_nextweek"
+            android:layout_centerHorizontal="true"
+            android:text="Next Week"
+            android:textSize="10sp" />
+
+        <RadioButton
+            android:id="@+id/radio_button_nextmonth"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/nextweek"
+            android:layout_centerHorizontal="true" />
+
+
+        <TextView
+            android:id="@+id/nextmonth"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/radio_button_nextmonth"
+            android:layout_centerHorizontal="true"
+            android:text="Next Month"
+            android:textSize="10sp" />
+
+    </RadioGroup>
+</RelativeLayout>

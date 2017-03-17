@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saurabh\.android\build-cache\baea582e8264ddde4bb2b4a7889e0befdfd4b7b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="E:\SaurabhDixit\Tradiz\app\build\intermediates\pre-dexed\debug\classes_15d5fe10a8fe34f265e0198247f133c2d144f4a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saurabh\.android\build-cache\799a5ef9bc1c9d64b1392f5ad7bf00ba17e98b8d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="E:\SaurabhDixit\Tradiz\app\build\intermediates\pre-dexed\debug\classes_c7216312ff38c44fdb708c5c6af167c99dc41e5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saurabh\.android\build-cache\dc8d3c0385781fc602dd8035b9f197504fea0348\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="E:\SaurabhDixit\Tradiz\app\build\intermediates\pre-dexed\debug\classes_d7d0d2156a414b13fdd9d6f4ae70a3784ff48705.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saurabh\.android\build-cache\a29dee5739a04c88b7f55172eedffe43d12cf544\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="E:\SaurabhDixit\Tradiz\app\build\intermediates\pre-dexed\debug\classes_f0e49c6a580a3fbc81378d8bcece88a96e738726.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saurabh\.android\build-cache\db461e68e99630aedcdc90f0aadea4cdc6c291eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="E:\SaurabhDixit\Tradiz\app\build\intermediates\pre-dexed\debug\classes_697f0462a4f26da36b682260840e0ef2d6eee350.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saurabh\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="E:\SaurabhDixit\Tradiz\app\build\intermediates\pre-dexed\debug\picasso-2.3.2_4c4428aef3be89cf32f556c7b1fd2646f19bee2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saurabh\.android\build-cache\fb69eb542de6e65f35f4343f26c2e0c4090ac55d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="E:\SaurabhDixit\Tradiz\app\build\intermediates\pre-dexed\debug\classes_b4f754fe0416ea95924a32ed14f75bee96c6cb91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saurabh\.android\build-cache\231bb3a924ac1794bf670b6f73d6468c733008c1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="E:\SaurabhDixit\Tradiz\app\build\intermediates\pre-dexed\debug\classes_b4e628493e45a10441bc80eef6e87821e92938d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saurabh\.android\build-cache\38ed19ad3092862d87334505f767608b18aa538f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="E:\SaurabhDixit\Tradiz\app\build\intermediates\pre-dexed\debug\classes_69c514e90b3001b46f1d70acff74fafa5e21dfb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saurabh\.android\build-cache\77d98b39a1c6ccf33f55d6421b09aee6529d35bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="E:\SaurabhDixit\Tradiz\app\build\intermediates\pre-dexed\debug\classes_4848d2bc34a6887e3ea200941fba2bc96d718691.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saurabh\.android\build-cache\6ce949a9415fdecba945218f4b2f6f5de3994671\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="E:\SaurabhDixit\Tradiz\app\build\intermediates\pre-dexed\debug\classes_6cab46190bd3a376ad4eb310b3df945167f91493.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saurabh\.android\build-cache\9fa05621a39d2965de072bf5f809acb2d083ae7b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\SaurabhDixit\Tradiz\app\build\intermediates\pre-dexed\debug\classes_bc9bb1c5fbe3f2607034720b1b0fff6988bbf0f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saurabh\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="E:\SaurabhDixit\Tradiz\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_ae3b276df065d061368ada117b97ebd4ee917ddb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saurabh\.android\build-cache\be745ce4d21578afd0959162b58bef4f943b091e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="E:\SaurabhDixit\Tradiz\app\build\intermediates\pre-dexed\debug\classes_dd68073bf0b36e9b88f8620a69c27a4af2a9c794.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saurabh\.android\build-cache\64c4105dbf22db32f20b03bde993b8c43fee7c57\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="E:\SaurabhDixit\Tradiz\app\build\intermediates\pre-dexed\debug\classes_c5b94ee28b20cb8fcc5c741a991963b870db6fba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saurabh\.android\build-cache\a2866d7c23b5022709df61f3c62711ff8fe08593\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="E:\SaurabhDixit\Tradiz\app\build\intermediates\pre-dexed\debug\classes_cb96e61750d532a52c76eccb33b2879f5644de09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saurabh\.android\build-cache\093520edada8273a908a9d8204100ede81e59e00\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="E:\SaurabhDixit\Tradiz\app\build\intermediates\pre-dexed\debug\classes_5c8786d744c914f557b31db0c5f42530c4130a85.jar" />
+    </item>
+
+</items>

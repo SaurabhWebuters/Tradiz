@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    xmlns:rangebarvertical="http://schemas.android.com/apk/res-auto">
+
+    <com.tradiz.prototype.tradiz.layout.RangeBarVertical
+        android:id="@+id/timer1"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        rangebarvertical:activeColor="#5e5d5e"
+        rangebarvertical:inactiveColor="#808080"
+        android:background="@drawable/card_popup"/>
+
+</LinearLayout>

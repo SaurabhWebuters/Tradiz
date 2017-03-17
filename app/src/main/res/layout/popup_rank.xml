@@ -1,0 +1,106 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/card_popup"
+    android:paddingBottom="5dip"
+    android:paddingTop="5dip"
+
+    >
+
+    <RadioGroup
+        android:id="@+id/radio_group_rank"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true">
+
+        <RadioButton
+            android:id="@+id/radio_button_rank1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true" />
+
+
+        <TextView
+            android:id="@+id/tv_one"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/radio_button_rank1"
+            android:layout_centerHorizontal="true"
+            android:text="One"
+            android:textSize="10sp" />
+
+        <RadioButton
+            android:id="@+id/radio_button_rank2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_one"
+            android:layout_centerHorizontal="true" />
+
+
+        <TextView
+            android:id="@+id/tv_two"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/radio_button_close"
+            android:layout_centerHorizontal="true"
+            android:text="Two"
+            android:textSize="10sp" />
+
+
+        <RadioButton
+            android:id="@+id/radio_button_rank3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_two"
+            android:layout_centerHorizontal="true" />
+
+
+        <TextView
+            android:id="@+id/tv_three"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/radio_button_rank3"
+            android:layout_centerHorizontal="true"
+            android:text="Three"
+            android:textSize="10sp" />
+
+
+        <RadioButton
+            android:id="@+id/radio_button_rank4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_three"
+            android:layout_centerHorizontal="true" />
+
+
+        <TextView
+            android:id="@+id/tv_four"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/radio_button_rank4"
+            android:layout_centerHorizontal="true"
+            android:text="Four"
+            android:textSize="10sp" />
+
+
+        <RadioButton
+            android:id="@+id/radio_button_rank5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_four"
+            android:layout_centerHorizontal="true" />
+
+
+        <TextView
+            android:id="@+id/tv_five"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/radio_button_rank5"
+            android:layout_centerHorizontal="true"
+            android:text="Five"
+            android:textSize="10sp" />
+
+
+    </RadioGroup>
+
+</RelativeLayout>

@@ -1,0 +1,30 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:background="@drawable/card_popup">
+
+
+    <TextView
+        android:id="@+id/verticalSeekbarText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:padding="10dp"
+        android:text="Value"
+        tools:context=".VerticalSliderActivity" />
+
+
+    <com.tradiz.prototype.tradiz.layout.VerticalSeekBar
+        android:id="@+id/verticalSeekbar"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:layout_below="@+id/verticalSeekbarText"
+        android:layout_centerHorizontal="true"
+        android:max="100"
+        android:thumb="@drawable/ic_circle"
+      />
+
+
+</RelativeLayout>
+

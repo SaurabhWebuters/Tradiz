@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tradiz</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="post_new">Post New</string>
+    <string name="jobs">Jobs</string>
+    <string name="my_jobs">My Jobs</string>
+    <string name="list">List</string>
+    <string name="favourite">Favourites</string>
+    <string name="map">Map</string>
+    <string name="item">Item</string>
+    <string name="rate">Rate</string>
+    <string name="rank">Rank</string>
+    <string name="availability">Availability</string>
+    <string name="distance">Distance</string>
+</resources>
